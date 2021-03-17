@@ -1,3 +1,3 @@
-# hello-word
+# hello-world
 compartilhar 
-logo vem 
+agora
